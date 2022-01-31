@@ -1,3 +1,0 @@
-[submodule "charts/node-base-app"]
-	path = charts/node-base-app
-	url = git@github.com:andrei-matei/node-base-app.git
